@@ -1,0 +1,9 @@
+name: word_vec
+dependencies:
+  - python=3.6
+  - gensim
+  - pandas
+  - matplotlib
+  - IPython
+  - typing
+  - numpy

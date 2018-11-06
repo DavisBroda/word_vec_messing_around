@@ -1,0 +1,5 @@
+model_storage/*
+data/*
+.idea/*
+davis_word_vec/__pycache__/*
+davis_word_vec/ignored_workbook.py
